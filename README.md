@@ -1,11 +1,17 @@
 **PharmaLink**
+
+
 Connecting Patients with Pharmacies - Simplified Healthcare Access
 
 
 **🏥 What is PharmaLink?**
+
+
 PharmaLink is a revolutionary web platform that connects patients with local pharmacies across Kenya. We're bridging the gap between healthcare providers and those who need medication, making healthcare access simpler, faster, and more reliable.
 
 **🌟 Key Features**
+
+
 🔍 Medication Search: Find specific medications at nearby pharmacies
 
 📍 Location-Based Results: Discover pharmacies closest to you
